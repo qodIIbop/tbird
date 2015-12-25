@@ -162,7 +162,7 @@ void buzzer_off()
 	TCCR3A&=~(1<<COM3A1);
 }
 
-//2d array
+//2d array init
 int init_phonedigit_array()
 {
     phonedigits[0][0]='0';
