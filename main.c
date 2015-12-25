@@ -7,6 +7,7 @@
 #define DIAL_INIT -1
 #define DELAY1 1000
 #define DELAY_SHORT 500
+//Author: Barna
 
 int dial_num=0;
 int move=0;

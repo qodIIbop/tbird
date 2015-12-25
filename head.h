@@ -30,7 +30,7 @@ void lcd_num(unsigned long number);
 void buzzer_on();
 void buzzer_off();
 
-
+//inits
 void init();
 void button_push();
 void led_inner_d();
